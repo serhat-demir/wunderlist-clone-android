@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/actionListeSil"
+        android:icon="@drawable/ic_delete"
+        android:title="Listeyi Sil"
+        app:showAsAction="always|collapseActionView" />
+    <item
+        android:id="@+id/actionKaydetListeAyarlari"
+        android:icon="@drawable/ic_check"
+        android:title="Değişiklikleri Kaydet"
+        app:showAsAction="always|collapseActionView" />
+</menu>

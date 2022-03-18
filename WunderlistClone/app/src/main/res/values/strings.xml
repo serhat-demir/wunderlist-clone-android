@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Wunderlist Clone</string>
+    <string name="msgError">Bir sorun oluştu. Daha sonra tekrar deneyin.</string>
+    <string name="logError">Error</string>
+
+    <string name="btnKaydet">Kaydet</string>
+    <string name="btnIptal">İptal</string>
+    <string name="btnEvet">Evet</string>
+    <string name="btnSil">Sil</string>
+    <string name="btnTekrarDene">Tekrar Dene</string>
+
+    <string name="alertTitleUyari">Uyarı</string>
+    <string name="alertTitleHata">Hata</string>
+
+    <string name="msgInternetError">İnternet bağlantısı bulunamadı.</string>
+    <string name="msgInternetBaglandi">İnternete bağlandı.</string>
+
+    <string name="actMainTxtKullaniciAd">Kullanıcı Adı</string>
+    <string name="actMainEdtKullaniciAd">Kullanıcı adınızı girin…</string>
+    <string name="actMainTxtKullaniciSifre">Şifre</string>
+    <string name="actMainEdtKullaniciSifre">Şifrenizi girin…</string>
+    <string name="actMainBtnOturumAc">Oturum Aç</string>
+    <string name="actMaibnBtnHesapOlustur">Hesap Oluştur</string>
+    <string name="actMainTxtSifremiUnuttum">Şifremi Unuttum</string>
+    <string name="actMainEmptyError">Kullanıcı adı ve şifrenizi girin.</string>
+    <string name="actMainLengthError">Kullanıcı adı ve şifre en az 4 karakter olmalı.</string>
+    <string name="actMainMsgOturumAcildi">Oturum açıldı.</string>
+
+    <string name="actListelerFabDesc">Liste ekle</string>
+    <string name="actListelerEdtListeEkle">Liste başlığını girin…</string>
+    <string name="actListelerCardListeBaslik">Liste başlık</string>
+    <string name="actListelerAdListeEkleTitle">Yeni Liste Oluştur</string>
+    <string name="actListelerListeEkleEmptyError">Liste başlığını girin.</string>
+
+    <string name="actSifreDegistirTxtYeniSifre">Yeni Şifre</string>
+    <string name="actSifreDegistirEdtYeniSifre">Yeni şifrenizi girin…</string>
+    <string name="actSifreDegistirTxtYeniSifreTekrar">Şifreyi Onayla</string>
+    <string name="actSifreDegistirEdtYeniSifreTekrar">Şifrenizi tekrar girin…</string>
+    <string name="actSifreDegistirBtnKaydet">Şifreyi Değiştir</string>
+    <string name="actSifreDegistirTitle">Şifre Değiştir</string>
+    <string name="actSifreDegistirLengthError">Şifre en az 4 karakter olmalı.</string>
+    <string name="actSifreDegistirEqualsError">Şifreler birbiriyle eşleşmiyor.</string>
+    <string name="actSifreDegistirOldPassError">Yeni şifreniz eskisiyle aynı olamaz.</string>
+
+    <string name="actGorevlerEdtYeniGorev">Yeni görev</string>
+    <string name="actGorevlerFabGorevEkleDesc">Görev ekle</string>
+    <string name="actGorevlerEmptyError">Görev içeriğini girin…</string>
+    <string name="cardGorevTxtGorevIcerik">Görev içeriği</string>
+    <string name="actGorevlerMsgTamamlanmamisGorev">0 tamamlanmamış görev</string>
+
+    <string name="actTamamlanmisGorevlerMsgTamamlanmisGorev">0 görev tamamlandı</string>
+    <string name="actTamamlanmisGorevlerMsgGorevSil">Tamamlanmış görevleri silmek istediğinize emin misiniz? Bu işlem geri alınamaz.</string>
+
+    <string name="actListeAyarlariTxtListeBaslik">Liste Başlığı</string>
+    <string name="actListeAyarlariEdtListeBaslik">Liste başlığını girin…</string>
+    <string name="actListeAyarlariTxtListeArkaPlan">Liste Arka Planı</string>
+    <string name="actListeAyarlariCardUyeTxtUyeAd">Üye adı</string>
+    <string name="actListeAyarlariMsgListeSil">Listeyi silmek istediğinize emin misiniz? Bu işlem geri alınamaz.</string>
+    <string name="actListeAyarlariEdtUyeEkle">Üye adını girin…</string>
+    <string name="actListeAyarlariAdUyeEkleTitle">Yeni Üye Ekle</string>
+    <string name="actListeAyarlariUyeEkleEmptyError">Üye adını girin.</string>
+    <string name="actListeAyarlariAdUyeCikarTitle">Üye Çıkar</string>
+    <string name="actListeAyarlariAdUyeCikarMsg">adlı kullanıcıyı listeden çıkarmak istediğinize emin misiniz?</string>
+    <string name="actListeAyarlariTxtListeUyeleri">Liste Üyeleri</string>
+
+    <string name="actGorevAyarlariTxtGorevOlusturan">Görevi Oluşturan:</string>
+    <string name="actGorevAyarlariTxtGorevIcerik">Görev İçeriği</string>
+    <string name="actGorevAyarlariEdtGorevIcerik">Görev içeriğini girin…</string>
+    <string name="actGorevAyarlariCBGorevTamamlandi">Görev Tamamlandı</string>
+    <string name="actGorevAyarlariAdGorevSilMsg">Görevi silmek istediğinize emin misiniz? Bu işlem geri alınamaz.</string>
+    <string name="actGorevAyarlariEdtGorevIcerikEmptyError">Görev içeriğini girin.</string>
+</resources>
